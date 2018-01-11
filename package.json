@@ -1,5 +1,5 @@
 {
-  "name": "@semantic-release/npm",
+  "name": "@piercus-semantic-release/npm",
   "description": "Set of semantic-release plugins to publish to a npm registry",
   "version": "0.0.0-development",
   "author": "Pierre Vanduynslager (https://twitter.com/@pvdlg_)",
